@@ -20,6 +20,7 @@ button {
 
 .jumbotron {
     margin-bottom: 0 !important;
+    overflow: hidden;
 }
 
 .atlas-cta {
